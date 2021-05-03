@@ -2,7 +2,9 @@
 C programming language test made by codility.com service. Task to do is:
 
 Write a function:
+
                       int solution(int A[], int N)
+                      
    that, given an array A of N integers, returns the smallest positive integer that does not occur in A.
    For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5,
                 given A = [1, 2, 3], the function should return 4,
